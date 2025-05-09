@@ -1,0 +1,24 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "React learning",
+  "keywords": [],
+  "homepage": "https://github.com/knitinjaideep/React-learning#readme",
+  "bugs": {
+    "url": "https://github.com/knitinjaideep/React-learning/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knitinjaideep/React-learning.git"
+  },
+  "license": "ISC",
+  "author": "Nitin Kotcherlakota",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
